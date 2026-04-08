@@ -14,3 +14,14 @@
 파일 생성
 <br>
 다운로드 페이지 수정
+<br>
+## 5주차 수업 내용
+<br>
+무료 플레이 수정
+<br>
+js폴더 추가
+<div align="center">
+<img src="screenshot/5rd.png" width="90%" alt="3주차 실습 화면">
+</div>
+<br>
+서치->구글 연동
