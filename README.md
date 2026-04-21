@@ -35,10 +35,10 @@ js폴더 추가
 <br>
 
 ## 중간고사 시험 정리
+```
 <br>
 시작 터미널 명령어: ./mvnw quarkus:dev
 <br>
-<pre>
 <!DOCTYPE>: 문서 형식 정의. 
 <html>>: 모든 HTML요소의 최상위 컨테이너. 문서의 시작과 끝
 <br>
@@ -65,4 +65,4 @@ var: 재선언 O, 재할당 O
 let: 재선언 X, 재할당 O
 <br>
 const: 재선언 X, 재할당 X
-</pre>
+```
