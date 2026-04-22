@@ -57,6 +57,17 @@ js폴더 추가
 
 ../: 한 단계 상위 폴더 
 ```
+```html기본 구조
+<!DOCTYPE html>
+<html>
+<head>
+    <title>문서 제목</title>
+</head>
+<body>
+    내용
+</body>
+</html>
+```
 
 
 ```javascript
