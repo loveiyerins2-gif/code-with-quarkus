@@ -83,5 +83,9 @@ const: 재선언 X, 재할당 X
 
 ## 10주차 수업 내용
 로그인 페이지 수정
+<br>
 login폴더 생성
 <br>
+<div align="center">
+<img src="screenshot/10rd.png" width="90%" alt="10주차 실습 화면">
+</div>
